@@ -1,0 +1,1 @@
+nft add rule ip filter input ip saddr 172.16.0.1 drop ip saddr 172.16.0.1 time after 1h counter drop

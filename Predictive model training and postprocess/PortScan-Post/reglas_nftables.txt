@@ -1,0 +1,2 @@
+nft add rule ip filter input ip saddr 172.16.0.1 drop
+nft add rule ip filter input ip saddr 192.168.10.50 drop
