@@ -23,4 +23,4 @@ We have followed steps to develop the tool:
 7- Predictive model training
 8- Post-processing
 
-##  [you can reach the thesis via this link]()
+##  [you can reach the thesis via this link](https://github.com/Santimr19/IceWall/blob/main/IceWall.pdf)
